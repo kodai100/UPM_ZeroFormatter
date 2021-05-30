@@ -1,0 +1,11 @@
+{
+  "name": "com.kodai100.zero-formatter",
+  "displayName": "ZeroFormatter",
+  "version": "1.0.0",
+  "unity": "2021.1",
+  "description": "Zero Formatter by nuecc : https://github.com/neuecc/ZeroFormatter",
+  "keywords": [
+    "Script"
+  ],
+  "unityRelease": "9f1"
+}
